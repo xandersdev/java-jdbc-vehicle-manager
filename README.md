@@ -2,11 +2,11 @@
 
 **Desktop vehicle inventory manager built with Java Swing, JDBC and MySQL, with a database-free demo mode.**
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F89820&logoSize=auto)
 ![Swing](https://img.shields.io/badge/Java_Swing-000?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-000?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&logoSize=auto)
+![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven&logoColor=EA6274)
 
 ---
 
